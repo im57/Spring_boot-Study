@@ -47,6 +47,7 @@
 			<scope>runtime</scope>
 		</dependency>
 -->
+		<!-- 생성자, getter setter 자동 생성 -->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
